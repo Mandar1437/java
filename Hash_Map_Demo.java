@@ -74,6 +74,8 @@ public class Hash_Map_Demo
         
        }
 
+       hm.clear();
+
 
 
 
